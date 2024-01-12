@@ -1,7 +1,7 @@
 <p align="center">
   <samp>  
-    <a href="https://github.com/alsheroziy#js-contribution-activity">now</a> . 
-    <a href="https://github.com/alsheroziy?tab=repositories">projects</a> . 
+    <a href="https://github.com/alsheroziy#js-contribution-activity">now</a>
+    <a href="https://github.com/alsheroziy?tab=repositories">projects</a>
     <a href="https://github.com/uzinfocom-org">work</a>
     <a href="https://t.me/alsheroziy">telegram</a>
   </samp>
